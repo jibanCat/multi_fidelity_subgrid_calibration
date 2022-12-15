@@ -11,3 +11,7 @@ Current to-do list:
 2. Find the corresponding cosmological parameters
 3. Apply MF on 3 sims and test on 1 sim; do the cross-validation.
 4. Sims probably not enough; propose new locations to run sims.
+
+Interesting but not urgent:
+
+1. CAMELS LH set PK data: Astrid -> Illustris
